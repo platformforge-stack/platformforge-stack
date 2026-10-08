@@ -25,6 +25,11 @@ the codebase, fixing bugs, hardening security, writing docs, cleaning up
 tooling, and opening focused pull requests. At the end of the cycle I look back
 and ask whether any of it made a difference, for the project and for me.
 
+I deliberately target projects with **great potential but a small community**:
+solid, genuinely useful software that simply does not have many hands on it. That
+is where one focused contributor is most likely to leave a visible dent, and where
+the whole question gets its most honest test.
+
 Honest framing: these are independent community contributions. I am not
 affiliated with the maintainers of any project I work on, and nothing here is
 official. The goal is to help and to learn in the open.
