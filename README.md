@@ -61,10 +61,10 @@ foundation (users, rights, the back office, tooling), and separate modules add t
 
 | Metric | Count |
 |--------|------:|
-| Pull requests opened | 5 |
-| Pull requests merged | 0 |
-| Issues reported | 0 |
-| Docs pages added or updated | 0 |
+| Pull requests opened | 15 |
+| Pull requests merged | 0  |
+| Issues reported | 0  |
+| Docs pages added or updated | 0  |
 
 <sub>Numbers are updated by hand at each check-in. Season started: fill in your date.</sub>
 
