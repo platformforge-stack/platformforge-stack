@@ -63,7 +63,7 @@ foundation (users, rights, the back office, tooling), and separate modules add t
 |--------|------:|
 | Pull requests opened | 15 |
 | Pull requests merged | 0  |
-| Issues reported | 0  |
+| Issues reported | 1  |
 | Docs pages added or updated | 0  |
 
 <sub>Numbers are updated by hand at each check-in. Season started: fill in your date.</sub>
