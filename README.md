@@ -61,7 +61,7 @@ foundation (users, rights, the back office, tooling), and separate modules add t
 
 | Metric | Count |
 |--------|------:|
-| Pull requests opened | 15 |
+| Pull requests opened | 16 |
 | Pull requests merged | 0  |
 | Issues reported | 1  |
 | Docs pages added or updated | 0  |
